@@ -1,0 +1,14 @@
+{
+  "name": "node-js-grundkurs",
+  "version": "1.0.0",
+  "description": "Node JS Tutorial Deutsch für Anfänger - https://youtu.be/SSCeKhoY8Kk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSY",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}

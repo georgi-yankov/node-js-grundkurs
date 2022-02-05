@@ -1,0 +1,2 @@
+use "nodemon" instead of "node" in the command prompt,
+so that it updates automatically
